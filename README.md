@@ -27,7 +27,9 @@
 
 * 利用表格来记录
     
-    Markdown 书写示例（借助于 Vim 和 [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) 排版比较好看，也比较方便。）：
+    Markdown 书写示例：
+
+    *借助于 Vim 和 [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) 排版比较好看，也比较方便。当然用别的编辑器或者手工写也是完全没有问题的。*
 
     ```
     | 开始时间   | 任务                                       | 状态      | 最后更新时间 |
