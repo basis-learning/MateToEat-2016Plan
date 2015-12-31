@@ -10,11 +10,12 @@
 ## 读书
 
 - [ ] 《深入理解 Java 虚拟机》
+- [ ] 《鬼吹灯》
 
 ## 运动
 
-- [ ] 增肌减肌显腹肌
-- [ ] 看完李在福《追球》系列视频
+- [ ] 增肌减脂显腹肌
+- [ ] 看完李在福《[追球][2]》系列视频
 
 ## 技术
 
@@ -25,3 +26,4 @@
 - [ ] 练习钢笔书法
 
 [1]: https://github.com/mzlogin/android-reverse-engineering
+[2]: http://mazhuang.org/wiki/badminton/
