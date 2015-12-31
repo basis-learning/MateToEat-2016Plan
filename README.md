@@ -7,6 +7,7 @@
 ## 成员记录列表
 
 * [Zhuang Ma](mzlogin.md)
+* [zhaoxining](zxning.md)
 
 ## 记录原则
 
