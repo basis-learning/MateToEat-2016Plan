@@ -20,6 +20,7 @@
 ## 技术
 
 - [ ] 填 [android-reverse-engineering][1] 的坑
+- [ ] 填 [vim-galore-cn][3] 的坑
 
 ## 生活
 
@@ -27,3 +28,4 @@
 
 [1]: https://github.com/mzlogin/android-reverse-engineering
 [2]: http://mazhuang.org/wiki/badminton/
+[3]: https://github.com/mzlogin/vim-galore-cn
