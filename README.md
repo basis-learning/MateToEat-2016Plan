@@ -6,7 +6,8 @@
 
 ## 成员记录列表
 
-* [Zhuang Ma](mzlogin.md)
+* [chenyouzi](chenxiaoyoyo.md)
+* [mazhuang](mzlogin.md)
 * [zhaoxining](zxning.md)
 
 ## 记录原则
@@ -28,14 +29,18 @@
     Markdown 书写示例：
 
     ```
-    - [X] 读完《鬼吹灯》
-    - [ ] 写一个为 Markdown 自动生成 TOC 的 Vim 插件
+    - [ ] 读完《鬼吹灯》
+    - [X] 写一个为 Markdown 自动生成 TOC 的 Vim 插件
+        * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
+        * [为 Markdown 生成 TOC 的 Vim 插件](http://mazhuang.org/2015/12/19/vim-markdown-toc/)
     - [X] ~~练一手好硬笔书法~~
     ```
 
     显示效果：
-    - [X] 读完《鬼吹灯》
-    - [ ] 写一个为 Markdown 自动生成 TOC 的 Vim 插件
+    - [ ] 读完《鬼吹灯》
+    - [X] 写一个为 Markdown 自动生成 TOC 的 Vim 插件
+        * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
+        * [为 Markdown 生成 TOC 的 Vim 插件](http://mazhuang.org/2015/12/19/vim-markdown-toc/)
     - [X] ~~练一手好硬笔书法~~
 
 * 利用表格来记录
