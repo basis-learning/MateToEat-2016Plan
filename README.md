@@ -7,7 +7,7 @@
 ## 成员记录列表
 
 * [chenyouzi](chenxiaoyoyo.md)
-* [mazhuang](#1)
+* [mazhuang](https://github.com/basis-learning/MateToEat-2016Plan/issues/1)
 * [zhaoxining](zxning.md)
 
 ## 记录原则
